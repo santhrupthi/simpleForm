@@ -1,0 +1,34 @@
+.custom_field{
+    width: 100px !important;
+}
+.containercss{
+    padding-top: 10px;
+}
+.padding10{
+    padding: 10px;
+}
+.margin_btn{
+    margin-bottom: 10px !important;
+}
+.form_coloumn{
+    text-align: right;}
+.formGrp_width{
+width: 100%;
+}
+label{
+    text-align: left;
+    float: left;
+}
+.feildWidth{
+    width: 58% !important;
+}
+.PhoneWidth{
+    width: 55% !important;
+}
+.form_border{
+    border:2px solid rgb(167, 166, 166);
+}
+hr{border-top: 2px solid #eee;}
+form .error {
+  color: #ff0000;
+}
